@@ -2,3 +2,4 @@ remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: A Welcome Page
+description: Well, this is just a Git practise.
